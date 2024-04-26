@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at low_freq_counter_module.sv(12): always construct contains both blocking and non-blocking assignments File: C:/Users/aibah/sin_generater/low_freq_counter_module.sv Line: 12

@@ -12,7 +12,7 @@ waveform_generator uut (
     .clk(clk),
     .reset(reset),
     .sin_output(sin_output)
-);																		
+);
 
 // クロック生成
 always #10 clk = ~clk;  // 100MHzのクロック

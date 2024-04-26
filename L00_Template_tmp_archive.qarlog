@@ -1,0 +1,21 @@
+Quartus Prime Archive log --	C:/Users/sung/Documents/DEO10-lite-sample/DE10_LITE/L00_Template/L00_Template_tmp_archive.qarlog
+
+Archive:	C:/Users/sung/Documents/DEO10-lite-sample/DE10_LITE/L00_Template/L00_Template_tmp_archive.qar
+Date:		Tue Mar 02 10:47:32 2021
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/sung/Documents/DEO10-lite-sample/DE10_LITE/L00_Template/L00_Template.qpf
+C:/Users/sung/Documents/DEO10-lite-sample/DE10_LITE/L00_Template/TopModule.qsf
+C:/Users/sung/Documents/DEO10-lite-sample/DE10_LITE/L00_Template/TopModule.v
+c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 4 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Tue Mar 02 10:47:33 2021
+Source archive file:	C:/Users/sung/Documents/DEO10-lite-sample/DE10_LITE/L00_Template/L00_Template_tmp_archive.qar
+Archive was extracted into	C:/Users/sung/Documents/DEO10-lite-sample/myprj/
+		 - successfully.

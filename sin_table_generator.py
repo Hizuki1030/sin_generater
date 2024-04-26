@@ -12,7 +12,7 @@ def read_parameters(file_path):
     return params
 
 # パラメータファイルからパラメータを取得
-parameters = read_parameters('parameter.v')
+parameters = read_parameters('parameter.sv')
 ANALOG_BIT_SIZE = parameters['ANALOG_BIT_SIZE']
 WAVE_LENGTH = parameters['WAVE_LENGTH']
 

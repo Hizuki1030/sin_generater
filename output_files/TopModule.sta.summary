@@ -1,0 +1,113 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLK1'
+Slack : -14.200
+TNS   : -36.750
+
+Type  : Slow 1200mV 85C Model Setup 'low_freq_counter:lfc|out_clk'
+Slack : -3.379
+TNS   : -24.529
+
+Type  : Slow 1200mV 85C Model Setup 'low_freq_counter:lfc_switching|out_clk'
+Slack : -0.863
+TNS   : -1.348
+
+Type  : Slow 1200mV 85C Model Hold 'low_freq_counter:lfc_switching|out_clk'
+Slack : 0.348
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLK1'
+Slack : 0.355
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'low_freq_counter:lfc|out_clk'
+Slack : 0.362
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK1'
+Slack : -3.000
+TNS   : -17.030
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'low_freq_counter:lfc|out_clk'
+Slack : -1.403
+TNS   : -22.448
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'low_freq_counter:lfc_switching|out_clk'
+Slack : -1.403
+TNS   : -7.015
+
+Type  : Slow 1200mV 0C Model Setup 'CLK1'
+Slack : -12.896
+TNS   : -32.786
+
+Type  : Slow 1200mV 0C Model Setup 'low_freq_counter:lfc|out_clk'
+Slack : -2.968
+TNS   : -20.977
+
+Type  : Slow 1200mV 0C Model Setup 'low_freq_counter:lfc_switching|out_clk'
+Slack : -0.735
+TNS   : -0.964
+
+Type  : Slow 1200mV 0C Model Hold 'low_freq_counter:lfc_switching|out_clk'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLK1'
+Slack : 0.321
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'low_freq_counter:lfc|out_clk'
+Slack : 0.328
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK1'
+Slack : -3.000
+TNS   : -17.030
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'low_freq_counter:lfc|out_clk'
+Slack : -1.403
+TNS   : -22.448
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'low_freq_counter:lfc_switching|out_clk'
+Slack : -1.403
+TNS   : -7.015
+
+Type  : Fast 1200mV 0C Model Setup 'CLK1'
+Slack : -5.094
+TNS   : -10.472
+
+Type  : Fast 1200mV 0C Model Setup 'low_freq_counter:lfc|out_clk'
+Slack : -0.855
+TNS   : -2.610
+
+Type  : Fast 1200mV 0C Model Setup 'low_freq_counter:lfc_switching|out_clk'
+Slack : 0.222
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK1'
+Slack : 0.152
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'low_freq_counter:lfc_switching|out_clk'
+Slack : 0.152
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'low_freq_counter:lfc|out_clk'
+Slack : 0.156
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK1'
+Slack : -3.000
+TNS   : -14.723
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'low_freq_counter:lfc|out_clk'
+Slack : -1.000
+TNS   : -16.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'low_freq_counter:lfc_switching|out_clk'
+Slack : -1.000
+TNS   : -5.000
+
+------------------------------------------------------------
